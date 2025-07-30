@@ -1,5 +1,7 @@
 # SecureFront MVP
 
+![SecureFront Interface](interface.gif)
+
 ## 🚀 Project Overview
 **SecureFront** is a local-only, browser-based static analysis tool that helps frontend developers catch common security issues — without uploading any code.
 

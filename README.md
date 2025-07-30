@@ -2,15 +2,18 @@
 
 This repo highlights small-but-functional tools I've built to solve real developer and security problems. Each project is scoped as an MVP — focused, quick to build, and designed to test ideas.
 
-## Projects
+### ✨ My Philosophy
+I believe the best tools are the ones that teach. My work focuses on both building practical software solutions and creating educational experiences that empower developers. Whether I'm coding a security scanner or designing a workshop, my goal is to make complex topics accessible and actionable.
 
-## Projects
+---
+
+## 🚀 Projects
 
 - **[SecureFront](./securefront/README.md)**  
-  A browser-based frontend vulnerability scanner with local-only code analysis. Built to catch OWASP Top 10 issues without uploading code.
+  A browser-based frontend vulnerability scanner with local-only code analysis. I designed and built this tool from scratch to solve the problem of developer-centric security.
 
 - **[AI for Software Engineers Workshop](./ai-for-se-workshop/README.md)**  
-  A workshop exploring how AI tools like GitHub Copilot, Cursor, and Gemini CLI can transform modern software engineering workflows.
+  A workshop exploring how AI tools can transform software engineering workflows. As the curriculum designer, I structured the content and hands-on exercises to take developers from basic prompting to advanced AI-assisted workflows.
 
 ---
 
