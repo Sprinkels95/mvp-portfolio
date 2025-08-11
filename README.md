@@ -3,7 +3,7 @@
 This repo highlights small-but-functional tools I've built to solve real developer and security problems. Each project is scoped as an MVP — focused, quick to build, and designed to test ideas.
 
 ### ✨ My Philosophy
-I believe the best tools are the ones that teach. My work focuses on both building practical software solutions and creating educational experiences that empower developers. Whether I'm coding a security scanner or designing a workshop, my goal is to make complex topics accessible and actionable.
+My work focuses on both building practical software solutions and creating educational experiences that empower developers. Whether I'm coding a security scanner or designing a workshop, my goal is to make complex topics accessible and actionable.
 
 ---
 
