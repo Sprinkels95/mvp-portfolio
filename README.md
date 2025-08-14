@@ -36,14 +36,6 @@ Originally built to accelerate prep for **AI4 conference workshops**, this tool 
 
 ---
 
-### 🛠️ [AI for Software Engineers Workshop](./AI-SE-Workshop)  
-*A hands-on workshop exploring how AI transforms developer workflows.*  
-As curriculum designer, I guided learners from **basic prompting → advanced AI-assisted coding**, complete with exercises and labs.  
-- Covers prompting, RAG patterns, and AI-assisted debugging  
-- Used in live enterprise training  
-
----
-
 ## 📚 What I Do  
 - **AI Security:** Building tools like SecureFront to bring secure-by-default practices to everyday coding.  
 - **Accessible AI Apps:** Designing projects like Memory Lane to show how AI can support dignity and independence.  
