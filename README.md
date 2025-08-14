@@ -1,6 +1,6 @@
 # 🌟 Elsbeth Seymour – AI, Security & Learning Design  
 
-Hi, I’m Elsbeth (she/they) — a technical instructional designer turned AI security tinkerer.  
+Hi, I’m Elsbeth, a technical instructional designer turned AI security tinkerer.  
 I build tools, workflows, and learning experiences that make **complex tech approachable, secure, and human-centered**.  
 
 This portfolio highlights projects where I’ve blended **AI, accessibility, and security** into practical applications.  
