@@ -1,0 +1,33 @@
+# AI Slide Maker 🎨  
+*Generate professional slide decks in minutes with AI*  
+
+## Overview  
+AI Slide Maker is a rapid content-to-slide generator built to support educators, consultants, and technical teams. It turns plain text, Markdown, or prompts into **polished, themed slide decks** with auto-layouts and visual consistency.  
+
+The project was originally designed to cut down prep time for **AI4 conference workshops** and has since been adapted for broader use.  
+
+## Features  
+- 📝 Convert text, Markdown, or prompts into multi-slide decks  
+- 🎨 Auto-applied themes & layouts (consistent branding)  
+- 🔍 Self-checking mode to verify accuracy of AI-generated content  
+- 📤 Export to Google Slides, PowerPoint, or PDF  
+- ⚡ Built for speed (usable in minutes, not hours)  
+
+## Tech Stack  
+- **Frontend:** React  
+- **Backend:** Node.js + Gemini API  
+- **Integrations:** Google Slides API / pptxgenjs  
+
+## Demo  
+👉 [Live Demo](#) (coming soon)  
+
+## Roadmap  
+- [ ] Add speaker notes with AI assistance  
+- [ ] Theme customization for enterprise clients  
+- [ ] Slide-to-script generator (presentation companion)  
+- [ ] Collaboration mode  
+
+## Why It Matters  
+Slide prep often eats into creative time. This project shows how **AI can remove the grunt work** from presentation prep, letting professionals focus on storytelling and delivery.  
+
+---
