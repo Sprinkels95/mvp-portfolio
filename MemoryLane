@@ -1,0 +1,31 @@
+# Memory Lane 🧠  
+*A voice-first, AI-assisted memory support app*  
+
+## Overview  
+Memory Lane is an accessibility-first mobile app designed to support individuals with **memory challenges** (e.g., early Parkinson’s, dementia, cognitive disabilities). Inspired by caregiving experiences, the app serves as a **daily memory companion** that balances reminders, personalization, and dignity.  
+
+## Features  
+- 📅 **Google Calendar integration** — displays the day at a glance  
+- 🔔 **Smart reminders** — pill tracking, appointments, tasks  
+- 🎙️ **Voice input/output** — accessible for users with limited typing ability  
+- 👥 **Caregiver mode** — configurable permissions for safety and control  
+- 🛡️ **Security-first design** — scoped permissions, sanitized prompts, user confirmation required  
+
+## Tech Stack  
+- **Frontend:** Flutter  
+- **Backend:** Firebase (initial prototype), Google Calendar API  
+- **AI Layer:** Gemini for natural-language summaries & reminders  
+
+## Demo  
+👉 [Prototype Screenshots](#)  
+
+## Roadmap  
+- [ ] Expand caregiver dashboard  
+- [ ] Add memory prompts & journaling feature  
+- [ ] Optional music-based memory jogs (AI-curated playlists)  
+- [ ] HIPAA-compliant hosting option  
+
+## Why It Matters  
+Memory Lane started as a personal tool for family caregiving and has grown into a vision for **accessible AI-driven independence**. It’s not just about reminders — it’s about supporting autonomy, connection, and quality of life.  
+
+---
