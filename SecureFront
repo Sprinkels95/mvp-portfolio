@@ -1,0 +1,33 @@
+# SecureFront 🔒  
+*A front-end vulnerability scanner for "vibe coders"*  
+
+## Overview  
+SecureFront is a lightweight, browser-based security analysis tool built to help front-end developers identify common vulnerabilities **before** shipping code. It focuses on accessibility, speed, and privacy — running analysis locally in the browser without requiring server uploads.  
+
+Originally developed as a personal project, SecureFront is now evolving into a broader open-source initiative to make **security-first coding approachable for beginners**.  
+
+## Features  
+- ✅ Detects common front-end security issues (XSS, hardcoded secrets, unsafe regex, etc.)  
+- ✅ Local-only analysis (no cloud uploads, no logging)  
+- ✅ Beginner-friendly feedback with remediation tips  
+- ✅ AI-assisted mode (via Google Gemini) for repair suggestions  
+- ✅ UX-focused interface designed for accessibility  
+
+## Tech Stack  
+- **Frontend:** React, Tailwind  
+- **Analysis Engine:** Custom static checks + Gemini API integration  
+- **Deployment:** Browser-based app (future: cloud option with cost controls)  
+
+## Demo  
+👉 [Live Demo](#) (coming soon)  
+
+## Roadmap  
+- [ ] Expand vulnerability database  
+- [ ] Add linting plugin support  
+- [ ] Introduce CLI version  
+- [ ] Community templates for common frameworks (React, Vue, Next.js)  
+
+## Why It Matters  
+Frontend coders often skip security tools because they’re intimidating or hidden behind enterprise paywalls. SecureFront brings **security into the flow of creativity**, making it a natural part of vibe coding.  
+
+---
